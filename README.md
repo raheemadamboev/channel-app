@@ -13,7 +13,7 @@ This app is to test Kotlin Channel. Channel is only one time event. If you use L
 
 <img src="https://i.imgur.com/DtB6CDH.jpg" alt="Italian Trulli" width="200" height="434"> <img src="https://i.imgur.com/rz1heaO.jpg" alt="Italian Trulli" width="200" height="434">
 
-**Key points:**
+**Tech stack:**
 
 - Kotlin Coroutines
 - Viewmodel
